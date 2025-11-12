@@ -77,6 +77,7 @@ The real options model identifies the exact time to perform maintenance that max
 Our results show the proposed framework achieves the highest total profit in 4 out of 6 runs on Dataset A and 3 out of 5 runs on Dataset B , with profit improvements of at least 29% compared to running until failure.
 
 
+```bash
 Citation
 If you use this code or framework in your research, please cite our paper:
 @article{chen2025metaevaluation,
@@ -85,3 +86,4 @@ If you use this code or framework in your research, please cite our paper:
   journal={International Journal of Production Research},
   year={2025}
 }
+```
