@@ -54,6 +54,7 @@ To run the full framework pipeline (HI construction, metaevaluation, modeling, a
 
 ```bash
 python src/main.py
+```
 
 You can configure the parameters, select the dataset, and choose which models to run by modifying the variables in src/configuration.py.
 
