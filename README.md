@@ -59,7 +59,7 @@ python src/main.py
 You can configure the parameters, select the dataset, and choose which models to run by modifying the variables in src/configuration.py.
 
 
-Key Results
+## Key Results
 The "Metaevaluation" framework provides a comprehensive view of HI quality and leads to superior economic decisions.
 
 1. Metaevaluation Radar Charts
@@ -77,7 +77,7 @@ The real options model identifies the exact time to perform maintenance that max
 Our results show the proposed framework achieves the highest total profit in 4 out of 6 runs on Dataset A and 3 out of 5 runs on Dataset B , with profit improvements of at least 29% compared to running until failure.
 
 
-Citation
+## Citation
 If you use this code or framework in your research, please cite our paper:
 ```bash
 @article{chen2025metaevaluation,
